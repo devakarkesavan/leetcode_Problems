@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
+| [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 ## Hash Table
 |  |
 | ------- |
