@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
