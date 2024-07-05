@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 <!---LeetCode Topics End-->
