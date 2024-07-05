@@ -1,22 +1,37 @@
 class Solution {
+private:
+    string s, p;
+    int n = 0, m = 0;
+    vector<vector<int>>dp;
 public:
-    bool isMatch(string s, string p) {
-        int n = s.length(), m = p.length();
-        bool dp[n+1][m+1];
-        memset(dp, false, sizeof(dp));
-        dp[0][0] = true;
-        
-        for(int i=0; i<=n; i++){
-            for(int j=1; j<=m; j++){
-                if(p[j-1] == '*'){
-                    dp[i][j] = dp[i][j-2] || (i > 0 && (s[i-1] == p[j-2] || p[j-2] == '.') && dp[i-1][j]);
-                }
-                else{
-                    dp[i][j] = i > 0 && dp[i-1][j-1] && (s[i-1] == p[j-1] || p[j-1] == '.');
-                }
+    bool solve(int i, int j)
+    {
+        if(i >= n && j >= m) return true;
+        if(j >= m) return false;
+        if(i >= n)
+        {
+            for(int ii = j; ii < m; ii++)
+            {
+                if((p[ii] == '*') || (ii + 1 < m && p[ii + 1] == '*')) continue;
+                else return false;
             }
+            return true;
         }
-        
-        return dp[n][m];
+        if(dp[i][j] != -1) return dp[i][j];
+        if(j + 1 < m && p[j + 1] == '*')
+        {
+            bool left = solve(i, j + 2);
+            bool right = ((s[i] == p[j] || p[j] == '.')) ? solve(i + 1, j) : false;
+            return dp[i][j] = left || right;
+        }
+        if((s[i] == p[j] || p[j] == '.'))
+            return dp[i][j] = solve(i + 1, j + 1);
+        return dp[i][j] = false; 
+    }
+    bool isMatch(string s, string p) {
+        this->s = s; this->p = p;
+        this->n = s.size(); this->m = p.size();
+        dp.resize(n + 1,vector<int>(m + 1, -1));
+        return solve(0,0);
     }
 };
