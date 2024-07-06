@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 ## Data Stream
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2645-pass-the-pillow) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
