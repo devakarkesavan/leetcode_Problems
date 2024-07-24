@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
+| [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
+## Binary Search
+|  |
+| ------- |
+| [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 <!---LeetCode Topics End-->
