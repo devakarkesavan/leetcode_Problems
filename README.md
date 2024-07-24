@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
