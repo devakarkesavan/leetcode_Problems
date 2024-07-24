@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2645-pass-the-pillow) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
