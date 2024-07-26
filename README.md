@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
