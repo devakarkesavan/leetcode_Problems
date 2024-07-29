@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-count-vowels-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1332-count-vowels-permutation) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
