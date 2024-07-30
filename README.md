@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1511-count-number-of-teams) |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
 ## Greedy
