@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2154-minimum-moves-to-convert-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2154-minimum-moves-to-convert-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2154-minimum-moves-to-convert-string) |
 ## Tree
 |  |
 | ------- |
