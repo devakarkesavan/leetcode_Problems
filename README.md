@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2645-pass-the-pillow) |
+| [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
+| [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
+| [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
