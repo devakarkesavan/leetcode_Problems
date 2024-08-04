@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
+| [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
