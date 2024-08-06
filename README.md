@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2727-number-of-senior-citizens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Stack
 |  |
 | ------- |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
