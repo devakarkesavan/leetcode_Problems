@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2154-minimum-moves-to-convert-string) |
