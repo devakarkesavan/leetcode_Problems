@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
+| [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
+| [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
