@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
