@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0371-sum-of-two-integers) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
