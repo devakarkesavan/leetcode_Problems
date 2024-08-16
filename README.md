@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0403-frog-jump) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
