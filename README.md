@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-stone-game-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1617-stone-game-iv) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Hash Table
 |  |
 | ------- |
