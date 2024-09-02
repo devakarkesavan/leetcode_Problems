@@ -1,27 +1,31 @@
 class Solution {
 public:
-    int fun(int amount,vector<int>&coins,vector<int>&dp){
-        if(amount==0){
-            return 0;
-        }
-        if(amount<0){
-            return INT_MAX;
-        }
-        if(dp[amount]!=-1){
-            return dp[amount];
-        }
-        int mini = INT_MAX;
-        for(auto it:coins){
-            int k = fun(amount-it,coins,dp);
-            if(k!=INT_MAX){
-                mini = min(k+1,mini);
+    int fun(int ind,int tar,vector<int>&coins,vector<vector<int>>&dp){
+        if(ind==0){
+            if(tar%coins[ind]==0){
+            return (tar/coins[0]);
+            }
+            else{
+                return 1e9;
             }
         }
-        return dp[amount] = mini;
+        if(dp[ind][tar]!=-1){
+            return dp[ind][tar];
+        }
+        int nottake = fun(ind-1,tar,coins,dp);
+        int take = 1e9;
+        if(coins[ind]<=tar){
+            take = 1+fun(ind,tar-coins[ind],coins,dp);
+        }
+        return dp[ind][tar] = min(take,nottake);
     }
     int coinChange(vector<int>& coins, int amount) {
-        vector<int>dp(amount+1,-1);
-        int ans = fun(amount,coins,dp);
-        return ans == INT_MAX ? -1 : ans; 
+        int n = coins.size();
+        vector<vector<int>>dp(n,vector<int>(amount+1,-1));
+        int k =  fun(n-1,amount,coins,dp);
+        if(k==1e9){
+            return -1;
+        }
+        return k;
     }
 };
