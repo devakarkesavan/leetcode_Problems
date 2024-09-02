@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
