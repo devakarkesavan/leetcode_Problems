@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
+| [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0371-sum-of-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
