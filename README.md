@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2154-minimum-moves-to-convert-string) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0371-sum-of-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
