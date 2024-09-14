@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2727-number-of-senior-citizens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
