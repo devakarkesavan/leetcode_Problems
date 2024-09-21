@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -508,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
