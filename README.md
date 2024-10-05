@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
