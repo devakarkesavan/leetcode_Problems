@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
