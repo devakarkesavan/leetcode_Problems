@@ -27,7 +27,24 @@ public:
         }
         tar/=2;
         int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(tar+1,-1));
-        return fun(n-1,tar,nums,dp);
+        vector<vector<bool>>dp(n,vector<bool>(tar+1,false));
+        // return fun(n-1,tar,nums,dp);
+        for(int i=0;i<n;i++){
+            dp[i][0] = true;
+        }
+        if(nums[0]<=tar){
+            dp[0][nums[0]] = true;
+        }
+        for(int i=1;i<n;i++){
+            for(int k=1;k<=tar;k++){
+                bool notpick = dp[i-1][k];
+                bool pick = false;
+                if(k>=nums[i]){
+                    pick = dp[i-1][k-nums[i]];
+                }
+                dp[i][k] = pick||notpick;
+            }
+        }
+        return  dp[n-1][tar];
     }
 };
