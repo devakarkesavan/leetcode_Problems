@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0214-shortest-palindrome) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
