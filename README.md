@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1803-average-waiting-time) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
