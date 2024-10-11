@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0729-my-calendar-i) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1002-maximum-width-ramp) |
