@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
