@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0432-all-oone-data-structure) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
