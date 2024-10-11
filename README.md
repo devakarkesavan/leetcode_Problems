@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0344-reverse-string) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 ## Bit Manipulation
