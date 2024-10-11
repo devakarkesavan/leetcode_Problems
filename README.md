@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
 |  |
