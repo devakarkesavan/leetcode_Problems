@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0731-my-calendar-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
