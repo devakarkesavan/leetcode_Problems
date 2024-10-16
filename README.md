@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1720-crawler-log-folder) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
