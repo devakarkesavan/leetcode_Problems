@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
