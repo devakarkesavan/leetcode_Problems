@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3394-minimum-array-end](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3394-minimum-array-end) |
 ## Prefix Sum
 |  |
 | ------- |
