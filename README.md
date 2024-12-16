@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2846-robot-collisions) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2728-sum-in-a-matrix) |
 | [2868-continuous-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
