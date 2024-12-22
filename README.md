@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1253-sort-the-matrix-diagonally](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1253-sort-the-matrix-diagonally](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
