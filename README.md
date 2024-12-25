@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
