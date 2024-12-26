@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0264-ugly-number-ii) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Union Find
 |  |
@@ -868,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
