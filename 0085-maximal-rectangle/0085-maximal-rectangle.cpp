@@ -3,10 +3,10 @@ public:
     void fun(vector<int>his,int &maxi){
         int n = his.size();
         for(int i=0;i<n;i++){
-            int breadth = 1;
+            int b = 1;
             for(int j=i-1;j>=0;j--){
-                if(his[j] >= his[i]){
-                    breadth++;
+                if(his[j]>=his[i]){
+                    b++;
                 }
                 else{
                     break;
@@ -14,24 +14,24 @@ public:
             }
             for(int j=i+1;j<n;j++){
                 if(his[j]>=his[i]){
-                    breadth++;
+                    b++;
                 }
                 else{
                     break;
                 }
             }
-            maxi = max(maxi,his[i]*breadth);
+            maxi = max(maxi,his[i]*b);
         }
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
-        int n  = matrix.size();
+        int maxi = 0;
+        int n = matrix.size();
         int m = matrix[0].size();
         vector<int>his(m,0);
-        int maxi = 0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<matrix.size();i++){
             for(int j=0;j<m;j++){
                 if(matrix[i][j]=='1'){
-                    his[j]++;
+                    his[j]+=1;
                 }
                 else{
                     his[j] = 0;
