@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1063-best-sightseeing-pair](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1025-minimum-cost-for-tickets](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1250-longest-common-subsequence) |
