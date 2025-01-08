@@ -17,21 +17,20 @@ public:
         //     sum+= min(leftmax[i],rightmax[i]) - height[i];
         // }
         // return sum;
-        int left = 0,right = n-1;
-        int leftmax=0, rightmax =0, total = 0;
-        while(left < right){
+        int left = 0,right = n-1,total = 0,leftmax = arr[left],rightmax = arr[n-1];
+        while(left<right){
             if(arr[left]<=arr[right]){
-            if(leftmax > arr[left]){
-                total += leftmax-arr[left];
-            }
-            else{
-                leftmax = arr[left];
-            }
-            left++;
+                if(leftmax > arr[left]){
+                    total+=leftmax-arr[left];
+                }
+                else{
+                    leftmax = arr[left];
+                }
+                left++;
             }
             else{
                 if(rightmax > arr[right]){
-                    total+=rightmax - arr[right];
+                    total+=rightmax-arr[right];
                 }
                 else{
                     rightmax = arr[right];
