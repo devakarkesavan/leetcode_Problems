@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -814,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1876-map-of-highest-peak) |
@@ -905,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 ## Strongly Connected Component
 |  |
 | ------- |
