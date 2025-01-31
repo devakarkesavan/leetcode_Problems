@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
+| [0854-making-a-large-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0890-lemonade-change) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
@@ -932,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
