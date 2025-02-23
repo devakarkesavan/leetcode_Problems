@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0837-most-common-word) |
 | [0870-magic-squares-in-grid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
