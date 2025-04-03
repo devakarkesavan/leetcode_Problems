@@ -9,16 +9,15 @@ public:
         mpp['C'] = 100;
         mpp['D'] = 500;
         mpp['M'] = 1000;
-
-        int ans = 0;
-        for(int i=0;i<s.length();i++){
-            if(mpp[s[i]] < mpp[s[i+1]]){
-                ans-=mpp[s[i]];
+        int tot = 0;
+        for(int i=0;i<s.size();i++){
+            if(mpp[s[i]]<mpp[s[i+1]]){
+                tot-=mpp[s[i]];
             }
             else{
-                ans+=mpp[s[i]];
+                tot+=mpp[s[i]];
             }
         }
-        return ans;
+        return tot;
     }
 };
