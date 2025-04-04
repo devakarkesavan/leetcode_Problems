@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0268-missing-number) |
