@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void fun(vector<int>his,int &maxi){
+    void fun(vector<int>his,int &mini){
         int n = his.size();
         for(int i=0;i<n;i++){
             int b = 1;
@@ -20,13 +20,13 @@ public:
                     break;
                 }
             }
-            maxi = max(maxi,b*his[i]);
+            mini = max(mini,b*his[i]);
         }
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        int maxi = 0;
+        int mini = 0;
         vector<int>his(m,0);
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -34,11 +34,11 @@ public:
                     his[j]+=1;
                 }
                 else{
-                    his[j]=0;
+                    his[j] = 0;
                 }
             }
-            fun(his,maxi);
+            fun(his,mini);
         }
-        return maxi;
+        return mini;
     }
 };
