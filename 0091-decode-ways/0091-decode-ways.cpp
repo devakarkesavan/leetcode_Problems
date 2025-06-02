@@ -5,8 +5,8 @@ public:
         if (s[0] == '0') return 0;
 
         vector<int> dp(n + 1, 0);
-        dp[0] = 1; // empty string
-        dp[1] = 1; // first char is guaranteed not '0' here
+        dp[0] = 1; 
+        dp[1] = 1; 
 
         for (int i = 2; i <= n; ++i) {
             int oneDigit = s[i - 1] - '0';
