@@ -1,21 +1,26 @@
 class Solution {
 public:
     int numDecodings(string s) {
-        int p = 1,prev,n = s.length();
-        for(int i=n-1;i>=0;i--){
-            int curr = 0;
-            if(s[i]!='0'){
-                curr = p;
+        int n = s.size();
+        if (s[0] == '0') return 0;
+
+        vector<int> dp(n + 1, 0);
+        dp[0] = 1; // empty string
+        dp[1] = 1; // first char is guaranteed not '0' here
+
+        for (int i = 2; i <= n; ++i) {
+            int oneDigit = s[i - 1] - '0';
+            int twoDigit = stoi(s.substr(i - 2, 2));
+
+            if (oneDigit >= 1) {
+                dp[i] += dp[i - 1];
             }
-            if(i<n-1 && (s[i]=='1'||s[i]=='2'&&s[i+1]<'7')){
-                curr+=prev;
+
+            if (twoDigit >= 10 && twoDigit <= 26) {
+                dp[i] += dp[i - 2];
             }
-            prev = p;
-            p = curr;
         }
-        if(s.empty()){
-            return 0;
-        }
-        return p;
+
+        return dp[n];
     }
 };
