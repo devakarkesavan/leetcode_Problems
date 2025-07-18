@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3427-special-array-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3427-special-array-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/3427-special-array-ii) |
 ## Radix Sort
 |  |
