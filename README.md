@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0264-ugly-number-ii) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2716-prime-subtraction-operation) |
 ## Monotonic Stack
@@ -1093,4 +1096,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0432-all-oone-data-structure) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
