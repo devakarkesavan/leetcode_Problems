@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0137-single-number-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0221-maximal-square) |
