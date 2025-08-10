@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0344-reverse-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0242-valid-anagram) |
