@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0787-sliding-puzzle) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1002-maximum-width-ramp) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devakarkesavan/leetcode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
