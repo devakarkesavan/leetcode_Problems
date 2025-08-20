@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devakarkesavan/leetcode_Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/devakarkesavan/leetcode_Problems/tree/master/2716-prime-subtraction-operation) |
